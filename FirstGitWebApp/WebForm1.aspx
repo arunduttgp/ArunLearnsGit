@@ -10,6 +10,7 @@
     <form id="form1" runat="server">
     <div>
         <h1>Web Form 1</h1>
+        <h2>This is a page</h2>
     </div>
     </form>
 </body>
